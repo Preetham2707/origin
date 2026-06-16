@@ -140,3 +140,6 @@ const fun = ()=> {
     vr.innerText = "hii"
 }
 
+const ran = ()=> {
+    
+}
